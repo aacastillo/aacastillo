@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alan Castillo!
 - 👀 I’m interested in Cloud Infrastructure, Data Science, Full Stack Development!
-- 🌱 I’m currently learning JavaScript, Python, and Algorithm Design and Analysis
+- 🌱 I’m currently learning Web Programming and Natural Language Processing
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me 2001acastillo@gmail.com!
 
