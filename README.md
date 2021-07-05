@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alan Castillo!
 - 👀 I’m interested in Cloud Computing and Reliability!
-- 🌱 I’m currently learning Web Programming and Natural Language Processing
-- 💞️ I’m looking to collaborate on any projects!
+- 🌱 I’m currently learning Container Technologies and Azure Fundamentals
 - 📫 How to reach me 2001acastillo@gmail.com!
 
 <!---
