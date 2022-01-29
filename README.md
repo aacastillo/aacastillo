@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alan Castillo!
-- 👀 I’m interested in Cloud Computing and Site Reliability!
-- 🌱 I’m currently learning Container Technologies and Azure Fundamentals
-- 📫 How to reach me 2001acastillo@gmail.com!
+- 👀 I’m interested in Distributed System!
+- 🌱 I’m currently Ruby on Rails and Golang!
+- 📫 How to reach me: 2001acastillo@gmail.com!
 
 <!---
 aacastillo/aacastillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
